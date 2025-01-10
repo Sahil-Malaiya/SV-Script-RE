@@ -1,4 +1,4 @@
- # SV Script RE
+  # SV Script RE
 
 An attempt to reverse engineer the main lua script from Pokemon Scarlet/Violet
 
